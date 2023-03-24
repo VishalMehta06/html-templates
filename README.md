@@ -1,4 +1,9 @@
 <h1>HTML-Templates</h1>
 
 <h2> Templates within this package include:</h2>
-* Login Page with JS
+- Login Page with JS
+
+
+<hr>
+
+All templates are free to use for any purpose
