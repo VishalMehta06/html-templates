@@ -4,6 +4,7 @@
 - Login Page with JS
 
 
+<h4> Make sure that the CSS and HTML are adjusted to your liking and specified project as they will be standardized</h4>
 <hr>
 
-All templates are free to use for any purpose
+<h5> All templates are free to use for any purpose </h5>
