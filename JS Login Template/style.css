@@ -1,7 +1,7 @@
 /* Below line is used for online Google font */
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 h2{
-background-color: #FEFFED;
+/* background-color: #FEFFED; */
 padding: 30px 35px;
 margin: -10px -50px;
 text-align:center;
@@ -25,8 +25,9 @@ padding: 10px 50px 25px;
 border: 2px solid gray;
 border-radius: 10px;
 font-family: raleway;
-float:left;
+text-align: center;
 margin-top:50px;
+margin: 0 auto;
 }
 input[type=text],input[type=password]{
 width: 100%;
@@ -36,14 +37,8 @@ margin-bottom: 25px;
 margin-top: 5px;
 border: 2px solid #ccc;
 color: #4f4f4f;
-font-size: 16px;
-border-radius: 5px;
-}
-label{
-color: #464646;
-text-shadow: 0 1px 0 #fff;
 font-size: 14px;
-font-weight: bold;
+border-radius: 5px;
 }
 center{
 font-size:32px;
